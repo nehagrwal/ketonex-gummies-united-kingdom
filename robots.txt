@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/ketonex-gummies-united-kingdom/sitemap.xml
+Sitemap: https://ketonex-gummies-united-kingdom.vercel.app/sitemap-vercel.xml
+Sitemap: https://ketonex-gummies-united-kingdom.pages.dev/sitemap-cloudflare.xml
